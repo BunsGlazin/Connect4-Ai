@@ -1,0 +1,66 @@
+
+.abcd {
+    background-color: rgb(83, 83, 247);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.gap {
+    margin-left: 60px;
+}
+
+.holer{
+    border-radius: 50%;
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    margin: 10px 100px;
+    margin-left: 80px !important;
+}
+
+.firsthole {
+    border-radius: 50%;
+    background-color:black;
+    height: 80px;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+    margin-left: 80px !important;
+
+}
+
+
+.eachbutton {
+    color: transparent;
+    background-color: black;
+    border-color: transparent;
+    border-radius: 50%;
+    height: 80px;
+    width: 100%;
+}
+
+.scorer {
+    background-color: grey;
+}
+
+.allofit{
+    padding: 1%;
+}
+
+.abc {
+    margin-top: 22px;
+    height: 50px;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.gamename {
+    font-style: italic;
+}
+
+.scoreshow {
+    font-size: 400%;
+    margin-left: 200px;
+    margin-top: 30px;
+}
